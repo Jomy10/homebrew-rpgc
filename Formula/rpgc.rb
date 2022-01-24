@@ -6,6 +6,6 @@ class Rpgc < Formula
 	version "0.1.0"
 
 	def install
-		bin.install "rpg"
+		bin.install "build/macos-x86_64/rpgc"
 	end
 end
